@@ -24,8 +24,6 @@
 - [📺 Presentation](#presentation)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 Awesome Books <a name="about-project"></a>
 
 **Awesome Books** In this project, we made a basic website that allows users to add/remove books from a list. we achieved that by using JavaScript classes. we also dynamically modified the DOM and added basic events.
