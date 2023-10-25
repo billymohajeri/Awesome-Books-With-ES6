@@ -39,8 +39,6 @@
     </ul>
 </details>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://billymohajeri.github.io/Awesome-Books-With-ES6/)
