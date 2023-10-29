@@ -68,8 +68,6 @@ Example command:
 
 -->
 
-<!-- ### Setup -->
-
 <!-- Clone this repository to your desired folder: -->
 
 <!--
