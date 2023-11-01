@@ -60,8 +60,6 @@ In order to run this project you need:
 - Code Editor: VS Code
 - Web Browser
 
-<!-- ### Install -->
-
 <!-- Install this project with: -->
 
 <!--
