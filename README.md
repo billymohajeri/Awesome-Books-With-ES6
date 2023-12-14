@@ -79,8 +79,6 @@ In order to run this project you need:
 - **Add a dynamic button for mobile version**
 - **Add form for reserve tickets** -->
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
