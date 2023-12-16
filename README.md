@@ -74,11 +74,6 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ## 🔭 Future Features <a name="future-features"></a>
-
-- **Add a dynamic button for mobile version**
-- **Add form for reserve tickets** -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
